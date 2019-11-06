@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "472527558950",
+    "firebase_url": "https://scheduletracker-ca24b.firebaseio.com",
+    "project_id": "scheduletracker-ca24b",
+    "storage_bucket": "scheduletracker-ca24b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:472527558950:android:f9dcfd6b65db7369",
+        "android_client_info": {
+          "package_name": "com.matrixcode.ScheduleTracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "472527558950-9alm972ep6fen8b6i4ua6mhgje0311jo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuxjt5jVV7MgpdEThiKopu9858_7d76PI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "472527558950-9alm972ep6fen8b6i4ua6mhgje0311jo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
